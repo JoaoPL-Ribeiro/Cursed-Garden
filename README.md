@@ -1,4 +1,4 @@
-# Cursed-Garden
+**# Cursed-Garden**
 
 Welcome to our Game!!
 
