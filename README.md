@@ -1,6 +1,6 @@
 # Cursed-Garden
 
-Welcome to our Game!!
+**Welcome to our Game!!**
 
 To start playing press enter.
 
